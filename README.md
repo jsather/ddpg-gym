@@ -1,2 +1,2 @@
 # ddpg-gym
-DDPG implementation for gym environments.
+DDPG implementations for gym environments. Hi Journey
