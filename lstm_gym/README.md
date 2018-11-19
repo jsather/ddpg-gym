@@ -1,2 +1,2 @@
 # lstm_gym
-DDPG with recurrent neural networks. c00l
+DDPG with recurrent neural networks. 
